@@ -1,6 +1,7 @@
 # Responsive Portfolio Website GhifariAzhr
-## [github](https://github.com/GhifariAzhrr)
-## [instagram](https://instagram.com/ghifariazhrr_)
+## [Preview](https://ghifariazhrr.github.io/responsive-portfolio-GhifariAzhr/)
+## [Github](https://github.com/GhifariAzhrr)
+## [Instagram](https://instagram.com/ghifariazhrr_)
 ### Responsive Portfolio Website GhifariAzhr
 
 - Responsive Portfolio Website Using HTML CSS And JavaScript
